@@ -1,0 +1,15 @@
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Dllmain.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\Dllmain.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\GameHook\GameHooks.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\GameHooks.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\ImGui\imgui.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\imgui.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\ImGui\imgui_demo.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\imgui_demo.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\ImGui\imgui_draw.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\imgui_draw.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\ImGui\imgui_impl_dx9.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\imgui_impl_dx9.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\ImGui\imgui_impl_win32.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\imgui_impl_win32.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\ImGui\imgui_tables.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\imgui_tables.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\ImGui\imgui_widgets.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\imgui_widgets.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\GuiWindow.cpp;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\GuiWindow.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\MinHook\src\buffer.c;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\buffer.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\MinHook\src\hde\hde32.c;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\hde32.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\MinHook\src\hde\hde64.c;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\hde64.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\MinHook\src\hook.c;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\hook.obj
+G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\MinHook\src\trampoline.c;G:\Games\DDo\plugins\DDO Menu Src\DDO Menu\Release\trampoline.obj
